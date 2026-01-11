@@ -1,0 +1,17 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Maven
+**/target/
+
+# Node
+**/node_modules/
+
+# Docker
+.env
+
+# OS
+.DS_Store
+Thumbs.db
